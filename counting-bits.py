@@ -1,5 +1,5 @@
 '''
-File:  ounting-bits.py
+File:  counting-bits.py
 ##################################
            Question               
 ##################################
